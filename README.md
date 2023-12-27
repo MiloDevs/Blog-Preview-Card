@@ -65,9 +65,9 @@ Improve the responsiveness of the card element
 
 ### Useful resources
 
-- [:has('')](https://webkit.org/blog/13096/css-has-pseudo-class/) - This helped me learn how to select parents based on children using the :has() selector. With this I could style the Card based on it's child's (the title) active state
+- [Webkit.org](https://webkit.org/blog/13096/css-has-pseudo-class/) - This helped me learn how to select parents based on children using the :has() selector. With this I could style the Card based on it's child's (the title) active state
 
-- [@font-face](https://www.codeconcisely.com/posts/css-import-font/) - This was a really helpful article that helped me learn about @font-face tags for importing local fonts
+- [Codeconsisely.com](https://www.codeconcisely.com/posts/css-import-font/) - This was a really helpful article that helped me learn about @font-face tags for importing local fonts
 
 ## Author
 
