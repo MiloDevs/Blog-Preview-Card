@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MiloDevs/Blog-Preview-Card)
-- Live Site URL: ([Add live site URL here](https://your-live-site-url.com))
+- Live Site URL: (https://milodevs.github.io/Blog-Preview-Card/)
 
 ## My process
 
